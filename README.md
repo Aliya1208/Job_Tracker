@@ -7,4 +7,4 @@ This tracker inlcudes:
 - Auto-generated follow up dates
 - Filters and a notes section.
 
-I built this tracker as a CIS student looking to a summer internship to stay organized. I'm sharing this as the start of my portfolio. 
+I built this tracker as a CIS student looking for a summer internship to stay organized. I'm sharing this as the start of my portfolio. 
